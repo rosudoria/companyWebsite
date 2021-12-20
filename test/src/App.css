@@ -1,9 +1,6 @@
-.App {
-  width: 100vw;
-  height: 100vh;
-}
-
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Lato', sans-serif;
 }
