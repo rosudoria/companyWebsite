@@ -85,6 +85,7 @@
       transition: all 0.5s ease;
       z-index: 1;
       position: absolute;
+      height: 15rem;
     }
   
     .nav-links {
